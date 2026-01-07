@@ -1,0 +1,53 @@
+# פארק רעננה — Generative Engine Optimization Map
+
+> A תיירות וטבע business.
+
+---
+
+## Pages
+
+### Home
+https://-e016144c.zappy5.app
+
+### Experiences
+https://-e016144c.zappy5.app/experiences
+
+### About
+https://-e016144c.zappy5.app/about
+
+### Contact
+https://-e016144c.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e016144c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e016144c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e016144c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פארק רעננה
+פארק רעננה is a business in the תיירות וטבע industry.
+
+## Target Audience
+מטיילים בטבע
+
+## Industry
+תיירות וטבע
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e016144c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e016144c.zappy5.app/robots.txt
